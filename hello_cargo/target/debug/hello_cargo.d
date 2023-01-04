@@ -1,0 +1,1 @@
+C:\Users\Windows\ 10\AppData\Local\GitHubDesktop\app-3.1.2\Rust-Book-Crash-Coarse\Rust-Book-Crash-Coarse\hello_cargo\target\debug\hello_cargo.exe: C:\Users\Windows\ 10\AppData\Local\GitHubDesktop\app-3.1.2\Rust-Book-Crash-Coarse\Rust-Book-Crash-Coarse\hello_cargo\src\main.rs
