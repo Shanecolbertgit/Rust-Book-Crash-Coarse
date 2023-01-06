@@ -1,4 +1,4 @@
-# Rust-Book-Crash-Coarse
- I am creating this repo as a crash course as i read The Rust Book and learn language
+# Projects
+ I am creating this repo of projects as i read the Rust Book
  
  Book:  https://doc.rust-lang.org/book/title-page.html
